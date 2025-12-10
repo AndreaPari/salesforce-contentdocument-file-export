@@ -1,8 +1,8 @@
 # Executables
-*.exe
 *.dll
 *.so
 *.dylib
+# Note: SalesforceFileExtractor.exe is intentionally included in the repository
 
 # Python
 __pycache__/
